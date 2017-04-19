@@ -2,35 +2,27 @@ body{
 	margin: 0;
 	padding: 0;
 }
-.contenedor{
-	margin: 0;
-	padding: 0;
-}
 .caja{
-	width: 5%;
+	width: 10%;
 	height: 200px;
 	margin-top:2%;
 	margin-left: 35%;
+	display: block;
 	position: relative;
 }
 .cajita{
-	width: 50%;
-	height: 50%;
 	margin-top:25%;
 	margin-left: 25%;
-	position: absolute; 
 }
 .cajaMini{
-	width: 50%;
-	height: 50%;
 	margin-top:0%;
 	margin-left: 0%;
-	position: absolute; 
 }
-.cajaNegra{
-	width: 25%;
-	height: 26%;
-	background-color: black;
+.tamaño{
+	width: 50%;
+	height: 50%;
+}
+.absolute{
 	position: absolute;
 }
 #rojo{
@@ -47,4 +39,9 @@ body{
 }
 #morado{
 	background-color: #832E71;
+}
+#negra{
+	background-color: black;
+	width: 25%;
+	height: 25%;
 }
