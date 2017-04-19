@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.contenedor{
+	margin: 0;
+	padding: 0;
+}
+.caja{
+	width: 20%;
+	height: 300px;
+	margin-top:2%;
+	margin-left: 35%;
+	position: relative;
+}
+.cajita{
+	width: 50%;
+	height: 50%;
+	margin-top:25%;
+	margin-left: 25%;
+	position: absolute; 
+}
+.cajaMini{
+	width: 50%;
+	height: 50%;
+	margin-top:0%;
+	margin-left: 0%;
+	position: absolute; 
+}
+.cajaNegra{
+	width: 25%;
+	height: 26%;
+	background-color: black;
+	position: absolute;
+}
+#rojo{
+	background-color: #CB4335;
+}
+#azul{
+	background-color: #2B7DB9;
+}
+#verde{
+	background-color: #B7D84B;
+}
+#amarillo{
+	background-color: #FAFF16;
+}
+#morado{
+	background-color: #832E71;
+}
